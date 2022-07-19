@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6392782d-2f46-49f5-ab65-29e1e903b049}</ProjectGuid>
-    <RootNamespace>WindowsKernelObjects</RootNamespace>
+    <ProjectGuid>{186b6516-7f9f-4511-839c-37df6fc6d5c8}</ProjectGuid>
+    <RootNamespace>Process1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Process1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

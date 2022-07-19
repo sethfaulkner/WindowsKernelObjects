@@ -19,7 +19,7 @@ int main()
 
     LPCTSTR buff = (LPTSTR)MapViewOfFile(
         fileMapping,
-        FILE_MAP_ALL_ACCESS, 
+        FILE_MAP_ALL_ACCESS,
         0,
         0,
         256
